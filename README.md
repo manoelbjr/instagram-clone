@@ -2,6 +2,6 @@
 
 ### Aplicados os conceitos de:
 
-HTML
-CSS
-Flexbox
+HTML;
+CSS;
+Flexbox; entre outros.
