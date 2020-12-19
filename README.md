@@ -1,6 +1,7 @@
 # Instagram Clone - Bootcamp Everis DIO
 
-## Pude aplicar os conceitos de:
+### Aplicados os conceitos de:
 
-### HTML
-### CSS
+HTML
+CSS
+Flexbox
